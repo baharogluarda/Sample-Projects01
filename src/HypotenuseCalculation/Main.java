@@ -14,6 +14,5 @@ public class Main {
         double c = Math.sqrt((a*a) + (b*b));
 
         System.out.println("Hipotenüs : " + (int) c);
-
     }
 }
