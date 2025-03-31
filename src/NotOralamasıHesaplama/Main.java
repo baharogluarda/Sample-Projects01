@@ -41,5 +41,4 @@ public class Main {
         double average = sum / 6.0;
         return average;
     }
-
 }
